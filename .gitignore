@@ -1,0 +1,12 @@
+# Ignore these:
+.settings/
+Debug/
+Release/
+*.launch
+*.cfg
+.vscode
+
+# Ignore the binaries
+bin/
+# Except the readme for folder creation purposes
+!bin/README.md
